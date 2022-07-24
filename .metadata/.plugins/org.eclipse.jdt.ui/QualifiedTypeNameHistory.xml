@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="org.apache.kafka.clients.admin.AdminClientConfig"/>
+    <fullyQualifiedTypeName name="com.strproducer.producer.config.KafkaAdminConfig"/>
+    <fullyQualifiedTypeName name="org.springframework.kafka.core.KafkaAdmin.NewTopics"/>
+    <fullyQualifiedTypeName name="org.springframework.kafka.core.KafkaAdmin"/>
+    <fullyQualifiedTypeName name="org.springframework.kafka.config.TopicBuilder"/>
+    <fullyQualifiedTypeName name="org.springframework.kafka.core.ProducerFactory"/>
+    <fullyQualifiedTypeName name="org.apache.kafka.clients.producer.ProducerConfig"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ser.std.StringSerializer"/>
+    <fullyQualifiedTypeName name="org.springframework.kafka.core.DefaultKafkaProducerFactory"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="com.strproducer.producer.services.StringProducerService"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+</qualifiedTypeNameHistroy>

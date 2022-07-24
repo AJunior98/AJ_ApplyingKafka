@@ -1,0 +1,5 @@
+package com.strproducer.producer.resources;
+
+public class StringProducerResource {
+
+}

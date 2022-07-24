@@ -1,0 +1,6 @@
+package com.strproducer.producer.config;
+
+public class StringProducerFactoryConfig {
+	
+	
+}
