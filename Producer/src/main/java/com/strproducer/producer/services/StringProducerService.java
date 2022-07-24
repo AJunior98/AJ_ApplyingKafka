@@ -15,16 +15,18 @@ public class StringProducerService {
 	private KafkaTemplate<String, String> kafkaTemplate;
 		
 	public void sendMessage(String message) {
-		kafkaTemplate.send("str-topic", message).addCallback(
-				success -> {
-					if(success != null) {
-						logger.info("Send message with success {}", message);
-						logger.info("Partition {}, Offset{}", 
-								success.getRecordMetadata().partition(),
-								success.getRecordMetadata().offset());
-					}
-				},
-				error -> System.out.println("Error send message")
-				);
+		logger.info("Send message {}", message);
+		kafkaTemplate.send("str-topic", message);
+//		.addCallback(
+//				success -> {
+//					if(success != null) {
+//						logger.info("Send message with success {}", message);
+//						logger.info("Partition {}, Offset{}", 
+//								success.getRecordMetadata().partition(),
+//								success.getRecordMetadata().offset());
+//					}
+//				},
+//				error -> System.out.println("Error send message")
+//				);
 	}
 }
