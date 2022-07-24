@@ -1,0 +1,13 @@
+package com.strproducer.producer.config;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.autoconfigure.kafka.KafkaProperties;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class StringProducerFactoryConfig {
+	
+	@Autowired
+	public KafkaProperties properties;
+	
+}

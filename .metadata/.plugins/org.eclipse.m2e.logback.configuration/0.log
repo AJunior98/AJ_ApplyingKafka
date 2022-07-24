@@ -1,0 +1,1040 @@
+2022-07-24 10:22:51,400 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-24 10:23:02,044 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/2.7.2/spring-boot-starter-parent-2.7.2.pom
+2022-07-24 10:23:02,320 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/2.7.2/spring-boot-starter-parent-2.7.2.pom
+2022-07-24 10:23:02,468 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.7.2/spring-boot-dependencies-2.7.2.pom
+2022-07-24 10:23:02,927 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.7.2/spring-boot-dependencies-2.7.2.pom
+2022-07-24 10:23:03,155 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.6.4/kotlinx-coroutines-bom-1.6.4.pom
+2022-07-24 10:23:03,298 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.6.4/kotlinx-coroutines-bom-1.6.4.pom
+2022-07-24 10:23:03,470 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-bom/1.9.2/micrometer-bom-1.9.2.pom
+2022-07-24 10:23:03,617 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-bom/1.9.2/micrometer-bom-1.9.2.pom
+2022-07-24 10:23:03,813 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.79.Final/netty-bom-4.1.79.Final.pom
+2022-07-24 10:23:03,987 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.79.Final/netty-bom-4.1.79.Final.pom
+2022-07-24 10:23:04,180 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/2020.0.21/reactor-bom-2020.0.21.pom
+2022-07-24 10:23:04,325 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/2020.0.21/reactor-bom-2020.0.21.pom
+2022-07-24 10:23:04,525 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-bom/2021.2.2/spring-data-bom-2021.2.2.pom
+2022-07-24 10:23:04,668 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-bom/2021.2.2/spring-data-bom-2021.2.2.pom
+2022-07-24 10:23:04,833 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.3.22/spring-framework-bom-5.3.22.pom
+2022-07-24 10:23:04,976 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.3.22/spring-framework-bom-5.3.22.pom
+2022-07-24 10:23:05,145 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.5.14/spring-integration-bom-5.5.14.pom
+2022-07-24 10:23:05,289 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.5.14/spring-integration-bom-5.5.14.pom
+2022-07-24 10:23:06,035 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.7.2/spring-boot-maven-plugin-2.7.2.pom
+2022-07-24 10:23:06,269 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.7.2/spring-boot-maven-plugin-2.7.2.pom
+2022-07-24 10:23:06,408 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.7.2/spring-boot-maven-plugin-2.7.2.jar
+2022-07-24 10:23:06,803 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.7.2/spring-boot-maven-plugin-2.7.2.jar
+2022-07-24 10:23:07,101 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.strproducer:producer:0.0.1-SNAPSHOT @ D:\ws-applyingKafka\backendwithkafka\pom.xml.
+2022-07-24 10:23:07,254 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.7.2/spring-boot-starter-web-2.7.2.pom
+2022-07-24 10:23:07,408 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.7.2/spring-boot-starter-web-2.7.2.pom
+2022-07-24 10:23:07,555 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.7.2/spring-boot-starter-2.7.2.pom
+2022-07-24 10:23:07,699 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.7.2/spring-boot-starter-2.7.2.pom
+2022-07-24 10:23:07,855 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.7.2/spring-boot-2.7.2.pom
+2022-07-24 10:23:08,005 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.7.2/spring-boot-2.7.2.pom
+2022-07-24 10:23:08,173 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.22/spring-core-5.3.22.pom
+2022-07-24 10:23:08,326 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.22/spring-core-5.3.22.pom
+2022-07-24 10:23:08,503 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.22/spring-jcl-5.3.22.pom
+2022-07-24 10:23:08,651 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.22/spring-jcl-5.3.22.pom
+2022-07-24 10:23:08,797 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.22/spring-context-5.3.22.pom
+2022-07-24 10:23:08,946 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.22/spring-context-5.3.22.pom
+2022-07-24 10:23:09,112 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.22/spring-aop-5.3.22.pom
+2022-07-24 10:23:09,256 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.22/spring-aop-5.3.22.pom
+2022-07-24 10:23:09,402 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.22/spring-beans-5.3.22.pom
+2022-07-24 10:23:09,545 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.22/spring-beans-5.3.22.pom
+2022-07-24 10:23:09,717 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.22/spring-expression-5.3.22.pom
+2022-07-24 10:23:09,859 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.22/spring-expression-5.3.22.pom
+2022-07-24 10:23:10,031 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.7.2/spring-boot-autoconfigure-2.7.2.pom
+2022-07-24 10:23:10,176 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.7.2/spring-boot-autoconfigure-2.7.2.pom
+2022-07-24 10:23:10,340 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.7.2/spring-boot-starter-logging-2.7.2.pom
+2022-07-24 10:23:10,487 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.7.2/spring-boot-starter-logging-2.7.2.pom
+2022-07-24 10:23:10,665 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.7.2/spring-boot-starter-json-2.7.2.pom
+2022-07-24 10:23:10,812 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.7.2/spring-boot-starter-json-2.7.2.pom
+2022-07-24 10:23:10,988 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.3.22/spring-web-5.3.22.pom
+2022-07-24 10:23:11,143 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.3.22/spring-web-5.3.22.pom
+2022-07-24 10:23:11,334 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.7.2/spring-boot-starter-tomcat-2.7.2.pom
+2022-07-24 10:23:11,478 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.7.2/spring-boot-starter-tomcat-2.7.2.pom
+2022-07-24 10:23:11,648 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.65/tomcat-embed-core-9.0.65.pom
+2022-07-24 10:23:11,793 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.65/tomcat-embed-core-9.0.65.pom
+2022-07-24 10:23:11,959 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/9.0.65/tomcat-embed-el-9.0.65.pom
+2022-07-24 10:23:12,102 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/9.0.65/tomcat-embed-el-9.0.65.pom
+2022-07-24 10:23:12,268 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.65/tomcat-embed-websocket-9.0.65.pom
+2022-07-24 10:23:12,411 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.65/tomcat-embed-websocket-9.0.65.pom
+2022-07-24 10:23:12,579 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.3.22/spring-webmvc-5.3.22.pom
+2022-07-24 10:23:12,728 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.3.22/spring-webmvc-5.3.22.pom
+2022-07-24 10:23:12,908 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/kafka/spring-kafka/2.8.8/spring-kafka-2.8.8.pom
+2022-07-24 10:23:13,051 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/kafka/spring-kafka/2.8.8/spring-kafka-2.8.8.pom
+2022-07-24 10:23:13,217 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/5.3.22/spring-messaging-5.3.22.pom
+2022-07-24 10:23:13,359 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/5.3.22/spring-messaging-5.3.22.pom
+2022-07-24 10:23:13,504 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.22/spring-tx-5.3.22.pom
+2022-07-24 10:23:13,648 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.22/spring-tx-5.3.22.pom
+2022-07-24 10:23:13,825 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/retry/spring-retry/1.3.3/spring-retry-1.3.3.pom
+2022-07-24 10:23:13,967 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/retry/spring-retry/1.3.3/spring-retry-1.3.3.pom
+2022-07-24 10:23:14,142 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.3.29.RELEASE/spring-framework-bom-4.3.29.RELEASE.pom
+2022-07-24 10:23:14,285 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.3.29.RELEASE/spring-framework-bom-4.3.29.RELEASE.pom
+2022-07-24 10:23:14,457 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-clients/3.1.1/kafka-clients-3.1.1.pom
+2022-07-24 10:23:14,610 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-clients/3.1.1/kafka-clients-3.1.1.pom
+2022-07-24 10:23:14,756 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/luben/zstd-jni/1.5.0-4/zstd-jni-1.5.0-4.pom
+2022-07-24 10:23:14,899 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/luben/zstd-jni/1.5.0-4/zstd-jni-1.5.0-4.pom
+2022-07-24 10:23:15,067 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.pom
+2022-07-24 10:23:15,216 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.pom
+2022-07-24 10:23:15,362 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xerial/snappy/snappy-java/1.1.8.4/snappy-java-1.1.8.4.pom
+2022-07-24 10:23:15,503 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xerial/snappy/snappy-java/1.1.8.4/snappy-java-1.1.8.4.pom
+2022-07-24 10:23:15,669 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24.pom
+2022-07-24 10:23:15,812 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24.pom
+2022-07-24 10:23:15,979 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.7.2/spring-boot-starter-test-2.7.2.pom
+2022-07-24 10:23:16,125 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.7.2/spring-boot-starter-test-2.7.2.pom
+2022-07-24 10:23:16,301 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.7.2/spring-boot-test-2.7.2.pom
+2022-07-24 10:23:16,449 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.7.2/spring-boot-test-2.7.2.pom
+2022-07-24 10:23:16,595 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.7.2/spring-boot-test-autoconfigure-2.7.2.pom
+2022-07-24 10:23:16,742 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.7.2/spring-boot-test-autoconfigure-2.7.2.pom
+2022-07-24 10:23:16,956 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.12/byte-buddy-1.12.12.pom
+2022-07-24 10:23:17,100 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.12/byte-buddy-1.12.12.pom
+2022-07-24 10:23:17,254 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.12.12/byte-buddy-parent-1.12.12.pom
+2022-07-24 10:23:17,442 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.12.12/byte-buddy-parent-1.12.12.pom
+2022-07-24 10:23:17,626 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.12.12/byte-buddy-agent-1.12.12.pom
+2022-07-24 10:23:17,771 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.12.12/byte-buddy-agent-1.12.12.pom
+2022-07-24 10:23:17,949 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/skyscreamer/jsonassert/1.5.1/jsonassert-1.5.1.pom
+2022-07-24 10:23:18,098 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/skyscreamer/jsonassert/1.5.1/jsonassert-1.5.1.pom
+2022-07-24 10:23:18,277 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/5.3.22/spring-test-5.3.22.pom
+2022-07-24 10:23:18,421 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/5.3.22/spring-test-5.3.22.pom
+2022-07-24 10:23:18,591 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/kafka/spring-kafka-test/2.8.8/spring-kafka-test-2.8.8.pom
+2022-07-24 10:23:18,735 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/kafka/spring-kafka-test/2.8.8/spring-kafka-test-2.8.8.pom
+2022-07-24 10:23:18,918 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/zookeeper/zookeeper/3.6.3/zookeeper-3.6.3.pom
+2022-07-24 10:23:19,060 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/zookeeper/zookeeper/3.6.3/zookeeper-3.6.3.pom
+2022-07-24 10:23:19,217 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/zookeeper/parent/3.6.3/parent-3.6.3.pom
+2022-07-24 10:23:19,368 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/zookeeper/parent/3.6.3/parent-3.6.3.pom
+2022-07-24 10:23:19,544 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/zookeeper/zookeeper-jute/3.6.3/zookeeper-jute-3.6.3.pom
+2022-07-24 10:23:19,692 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/zookeeper/zookeeper-jute/3.6.3/zookeeper-jute-3.6.3.pom
+2022-07-24 10:23:19,856 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/yetus/audience-annotations/0.5.0/audience-annotations-0.5.0.pom
+2022-07-24 10:23:19,999 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/yetus/audience-annotations/0.5.0/audience-annotations-0.5.0.pom
+2022-07-24 10:23:20,168 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/yetus/yetus-project/0.5.0/yetus-project-0.5.0.pom
+2022-07-24 10:23:20,313 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/yetus/yetus-project/0.5.0/yetus-project-0.5.0.pom
+2022-07-24 10:23:20,496 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.79.Final/netty-handler-4.1.79.Final.pom
+2022-07-24 10:23:20,637 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.79.Final/netty-handler-4.1.79.Final.pom
+2022-07-24 10:23:20,792 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.1.79.Final/netty-parent-4.1.79.Final.pom
+2022-07-24 10:23:21,091 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.1.79.Final/netty-parent-4.1.79.Final.pom
+2022-07-24 10:23:21,274 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.79.Final/netty-common-4.1.79.Final.pom
+2022-07-24 10:23:21,420 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.79.Final/netty-common-4.1.79.Final.pom
+2022-07-24 10:23:21,578 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.79.Final/netty-resolver-4.1.79.Final.pom
+2022-07-24 10:23:21,727 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.79.Final/netty-resolver-4.1.79.Final.pom
+2022-07-24 10:23:21,898 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.79.Final/netty-buffer-4.1.79.Final.pom
+2022-07-24 10:23:22,049 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.79.Final/netty-buffer-4.1.79.Final.pom
+2022-07-24 10:23:22,222 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.79.Final/netty-transport-4.1.79.Final.pom
+2022-07-24 10:23:22,370 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.79.Final/netty-transport-4.1.79.Final.pom
+2022-07-24 10:23:22,554 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.79.Final/netty-transport-native-unix-common-4.1.79.Final.pom
+2022-07-24 10:23:22,697 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.79.Final/netty-transport-native-unix-common-4.1.79.Final.pom
+2022-07-24 10:23:22,878 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.79.Final/netty-codec-4.1.79.Final.pom
+2022-07-24 10:23:23,028 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.79.Final/netty-codec-4.1.79.Final.pom
+2022-07-24 10:23:23,223 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.79.Final/netty-transport-native-epoll-4.1.79.Final.pom
+2022-07-24 10:23:23,367 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.79.Final/netty-transport-native-epoll-4.1.79.Final.pom
+2022-07-24 10:23:23,518 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.79.Final/netty-transport-classes-epoll-4.1.79.Final.pom
+2022-07-24 10:23:23,676 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.79.Final/netty-transport-classes-epoll-4.1.79.Final.pom
+2022-07-24 10:23:23,853 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-metadata/3.1.1/kafka-metadata-3.1.1.pom
+2022-07-24 10:23:24,005 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-metadata/3.1.1/kafka-metadata-3.1.1.pom
+2022-07-24 10:23:24,172 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-server-common/3.1.1/kafka-server-common-3.1.1.pom
+2022-07-24 10:23:24,318 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-server-common/3.1.1/kafka-server-common-3.1.1.pom
+2022-07-24 10:23:24,462 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-raft/3.1.1/kafka-raft-3.1.1.pom
+2022-07-24 10:23:24,604 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-raft/3.1.1/kafka-raft-3.1.1.pom
+2022-07-24 10:23:24,769 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.pom
+2022-07-24 10:23:24,912 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.pom
+2022-07-24 10:23:25,081 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/yammer/metrics/metrics-parent/2.2.0/metrics-parent-2.2.0.pom
+2022-07-24 10:23:25,226 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/yammer/metrics/metrics-parent/2.2.0/metrics-parent-2.2.0.pom
+2022-07-24 10:23:25,391 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-streams-test-utils/3.1.1/kafka-streams-test-utils-3.1.1.pom
+2022-07-24 10:23:25,540 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-streams-test-utils/3.1.1/kafka-streams-test-utils-3.1.1.pom
+2022-07-24 10:23:25,752 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-streams/3.1.1/kafka-streams-3.1.1.pom
+2022-07-24 10:23:25,921 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-streams/3.1.1/kafka-streams-3.1.1.pom
+2022-07-24 10:23:26,095 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/rocksdb/rocksdbjni/6.22.1.1/rocksdbjni-6.22.1.1.pom
+2022-07-24 10:23:26,240 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/rocksdb/rocksdbjni/6.22.1.1/rocksdbjni-6.22.1.1.pom
+2022-07-24 10:23:26,394 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka_2.13/3.1.1/kafka_2.13-3.1.1.pom
+2022-07-24 10:23:26,573 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka_2.13/3.1.1/kafka_2.13-3.1.1.pom
+2022-07-24 10:23:26,736 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6.pom
+2022-07-24 10:23:26,880 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6.pom
+2022-07-24 10:23:27,028 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-storage/3.1.1/kafka-storage-3.1.1.pom
+2022-07-24 10:23:27,171 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-storage/3.1.1/kafka-storage-3.1.1.pom
+2022-07-24 10:23:27,340 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-storage-api/3.1.1/kafka-storage-api-3.1.1.pom
+2022-07-24 10:23:27,482 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-storage-api/3.1.1/kafka-storage-api-3.1.1.pom
+2022-07-24 10:23:27,633 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sourceforge/argparse4j/argparse4j/0.7.0/argparse4j-0.7.0.pom
+2022-07-24 10:23:27,775 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/argparse4j/argparse4j/0.7.0/argparse4j-0.7.0.pom
+2022-07-24 10:23:27,981 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.13/2.13.3/jackson-module-scala_2.13-2.13.3.pom
+2022-07-24 10:23:28,124 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.13/2.13.3/jackson-module-scala_2.13-2.13.3.pom
+2022-07-24 10:23:28,295 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8.pom
+2022-07-24 10:23:28,439 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8.pom
+2022-07-24 10:23:28,588 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/paranamer/paranamer-parent/2.8/paranamer-parent-2.8.pom
+2022-07-24 10:23:28,730 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/paranamer/paranamer-parent/2.8/paranamer-parent-2.8.pom
+2022-07-24 10:23:28,918 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-csv/2.13.3/jackson-dataformat-csv-2.13.3.pom
+2022-07-24 10:23:29,090 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-csv/2.13.3/jackson-dataformat-csv-2.13.3.pom
+2022-07-24 10:23:29,261 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.13.3/jackson-dataformats-text-2.13.3.pom
+2022-07-24 10:23:29,404 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.13.3/jackson-dataformats-text-2.13.3.pom
+2022-07-24 10:23:29,575 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.pom
+2022-07-24 10:23:29,719 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.pom
+2022-07-24 10:23:29,889 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/bitbucket/b_c/jose4j/0.7.8/jose4j-0.7.8.pom
+2022-07-24 10:23:30,038 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/bitbucket/b_c/jose4j/0.7.8/jose4j-0.7.8.pom
+2022-07-24 10:23:30,215 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.4.4/scala-collection-compat_2.13-2.4.4.pom
+2022-07-24 10:23:30,357 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.4.4/scala-collection-compat_2.13-2.4.4.pom
+2022-07-24 10:23:30,525 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scala-lang/scala-library/2.13.5/scala-library-2.13.5.pom
+2022-07-24 10:23:30,668 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scala-lang/scala-library/2.13.5/scala-library-2.13.5.pom
+2022-07-24 10:23:30,835 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.pom
+2022-07-24 10:23:30,978 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.pom
+2022-07-24 10:23:31,145 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scala-lang/scala-reflect/2.13.6/scala-reflect-2.13.6.pom
+2022-07-24 10:23:31,289 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scala-lang/scala-reflect/2.13.6/scala-reflect-2.13.6.pom
+2022-07-24 10:23:31,455 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/typesafe/scala-logging/scala-logging_2.13/3.9.3/scala-logging_2.13-3.9.3.pom
+2022-07-24 10:23:31,597 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/typesafe/scala-logging/scala-logging_2.13/3.9.3/scala-logging_2.13-3.9.3.pom
+2022-07-24 10:23:31,742 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scala-lang/scala-library/2.13.4/scala-library-2.13.4.pom
+2022-07-24 10:23:31,886 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scala-lang/scala-library/2.13.4/scala-library-2.13.4.pom
+2022-07-24 10:23:32,032 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scala-lang/scala-reflect/2.13.4/scala-reflect-2.13.4.pom
+2022-07-24 10:23:32,175 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scala-lang/scala-reflect/2.13.4/scala-reflect-2.13.4.pom
+2022-07-24 10:23:32,349 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-core/4.2.10/metrics-core-4.2.10.pom
+2022-07-24 10:23:32,508 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-core/4.2.10/metrics-core-4.2.10.pom
+2022-07-24 10:23:32,693 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4.pom
+2022-07-24 10:23:32,837 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4.pom
+2022-07-24 10:23:33,013 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.7.2/spring-boot-starter-2.7.2.jar
+2022-07-24 10:23:33,030 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.7.2/spring-boot-2.7.2.jar
+2022-07-24 10:23:33,580 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.7.2/spring-boot-starter-web-2.7.2.jar
+2022-07-24 10:23:33,580 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.7.2/spring-boot-starter-logging-2.7.2.jar
+2022-07-24 10:23:33,858 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.7.2/spring-boot-autoconfigure-2.7.2.jar
+2022-07-24 10:23:33,863 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.7.2/spring-boot-starter-2.7.2.jar
+2022-07-24 10:23:34,451 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.7.2/spring-boot-starter-json-2.7.2.jar
+2022-07-24 10:23:34,453 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.7.2/spring-boot-starter-logging-2.7.2.jar
+2022-07-24 10:23:34,453 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.7.2/spring-boot-starter-web-2.7.2.jar
+2022-07-24 10:23:35,157 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.65/tomcat-embed-core-9.0.65.jar
+2022-07-24 10:23:35,157 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.7.2/spring-boot-starter-tomcat-2.7.2.jar
+2022-07-24 10:23:35,165 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.7.2/spring-boot-starter-json-2.7.2.jar
+2022-07-24 10:23:35,956 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/9.0.65/tomcat-embed-el-9.0.65.jar
+2022-07-24 10:23:35,957 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.7.2/spring-boot-starter-tomcat-2.7.2.jar
+2022-07-24 10:23:36,821 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.65/tomcat-embed-websocket-9.0.65.jar
+2022-07-24 10:23:39,130 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/9.0.65/tomcat-embed-el-9.0.65.jar
+2022-07-24 10:23:39,876 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.3.22/spring-web-5.3.22.jar
+2022-07-24 10:23:40,154 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.65/tomcat-embed-websocket-9.0.65.jar
+2022-07-24 10:23:41,012 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.22/spring-beans-5.3.22.jar
+2022-07-24 10:23:42,647 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.7.2/spring-boot-2.7.2.jar
+2022-07-24 10:23:43,321 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.3.22/spring-webmvc-5.3.22.jar
+2022-07-24 10:23:48,788 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.22/spring-beans-5.3.22.jar
+2022-07-24 10:23:49,069 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.7.2/spring-boot-autoconfigure-2.7.2.jar
+2022-07-24 10:23:49,500 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.22/spring-aop-5.3.22.jar
+2022-07-24 10:23:49,777 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.22/spring-expression-5.3.22.jar
+2022-07-24 10:23:54,128 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.22/spring-aop-5.3.22.jar
+2022-07-24 10:23:54,128 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.22/spring-expression-5.3.22.jar
+2022-07-24 10:23:54,431 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.3.22/spring-webmvc-5.3.22.jar
+2022-07-24 10:23:54,948 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.22/spring-context-5.3.22.jar
+2022-07-24 10:23:54,948 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/kafka/spring-kafka/2.8.8/spring-kafka-2.8.8.jar
+2022-07-24 10:23:55,257 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/5.3.22/spring-messaging-5.3.22.jar
+2022-07-24 10:23:55,597 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.3.22/spring-web-5.3.22.jar
+2022-07-24 10:23:56,393 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.22/spring-tx-5.3.22.jar
+2022-07-24 10:24:01,364 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.22/spring-tx-5.3.22.jar
+2022-07-24 10:24:02,125 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/retry/spring-retry/1.3.3/spring-retry-1.3.3.jar
+2022-07-24 10:24:02,129 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/5.3.22/spring-messaging-5.3.22.jar
+2022-07-24 10:24:02,755 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/kafka/spring-kafka/2.8.8/spring-kafka-2.8.8.jar
+2022-07-24 10:24:02,965 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-clients/3.1.1/kafka-clients-3.1.1.jar
+2022-07-24 10:24:03,514 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/luben/zstd-jni/1.5.0-4/zstd-jni-1.5.0-4.jar
+2022-07-24 10:24:03,888 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/retry/spring-retry/1.3.3/spring-retry-1.3.3.jar
+2022-07-24 10:24:04,687 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar
+2022-07-24 10:24:04,724 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.65/tomcat-embed-core-9.0.65.jar
+2022-07-24 10:24:05,519 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xerial/snappy/snappy-java/1.1.8.4/snappy-java-1.1.8.4.jar
+2022-07-24 10:24:06,767 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.22/spring-context-5.3.22.jar
+2022-07-24 10:24:07,534 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar
+2022-07-24 10:24:12,651 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar
+2022-07-24 10:24:13,296 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.7.2/spring-boot-starter-test-2.7.2.jar
+2022-07-24 10:24:14,030 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.7.2/spring-boot-starter-test-2.7.2.jar
+2022-07-24 10:24:14,892 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.7.2/spring-boot-test-2.7.2.jar
+2022-07-24 10:24:18,384 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.7.2/spring-boot-test-2.7.2.jar
+2022-07-24 10:24:19,073 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.7.2/spring-boot-test-autoconfigure-2.7.2.jar
+2022-07-24 10:24:21,834 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.7.2/spring-boot-test-autoconfigure-2.7.2.jar
+2022-07-24 10:24:22,545 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.12/byte-buddy-1.12.12.jar
+2022-07-24 10:24:26,920 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xerial/snappy/snappy-java/1.1.8.4/snappy-java-1.1.8.4.jar
+2022-07-24 10:24:27,620 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.12.12/byte-buddy-agent-1.12.12.jar
+2022-07-24 10:24:27,896 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar
+2022-07-24 10:24:28,726 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/skyscreamer/jsonassert/1.5.1/jsonassert-1.5.1.jar
+2022-07-24 10:24:29,857 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/skyscreamer/jsonassert/1.5.1/jsonassert-1.5.1.jar
+2022-07-24 10:24:30,526 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.22/spring-core-5.3.22.jar
+2022-07-24 10:24:30,781 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.12.12/byte-buddy-agent-1.12.12.jar
+2022-07-24 10:24:31,634 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.22/spring-jcl-5.3.22.jar
+2022-07-24 10:24:32,715 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.22/spring-jcl-5.3.22.jar
+2022-07-24 10:24:33,422 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/5.3.22/spring-test-5.3.22.jar
+2022-07-24 10:24:42,599 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/5.3.22/spring-test-5.3.22.jar
+2022-07-24 10:24:43,295 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/kafka/spring-kafka-test/2.8.8/spring-kafka-test-2.8.8.jar
+2022-07-24 10:24:45,090 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/kafka/spring-kafka-test/2.8.8/spring-kafka-test-2.8.8.jar
+2022-07-24 10:24:45,891 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/zookeeper/zookeeper/3.6.3/zookeeper-3.6.3.jar
+2022-07-24 10:24:45,946 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.22/spring-core-5.3.22.jar
+2022-07-24 10:24:46,751 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/zookeeper/zookeeper-jute/3.6.3/zookeeper-jute-3.6.3.jar
+2022-07-24 10:24:50,171 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/zookeeper/zookeeper-jute/3.6.3/zookeeper-jute-3.6.3.jar
+2022-07-24 10:24:50,998 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/yetus/audience-annotations/0.5.0/audience-annotations-0.5.0.jar
+2022-07-24 10:24:52,191 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/yetus/audience-annotations/0.5.0/audience-annotations-0.5.0.jar
+2022-07-24 10:24:52,798 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-clients/3.1.1/kafka-clients-3.1.1.jar
+2022-07-24 10:24:53,022 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.79.Final/netty-handler-4.1.79.Final.jar
+2022-07-24 10:24:53,608 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.79.Final/netty-common-4.1.79.Final.jar
+2022-07-24 10:24:58,479 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/zookeeper/zookeeper/3.6.3/zookeeper-3.6.3.jar
+2022-07-24 10:24:59,025 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.79.Final/netty-handler-4.1.79.Final.jar
+2022-07-24 10:24:59,287 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.79.Final/netty-resolver-4.1.79.Final.jar
+2022-07-24 10:24:59,721 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.79.Final/netty-buffer-4.1.79.Final.jar
+2022-07-24 10:24:59,722 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.12/byte-buddy-1.12.12.jar
+2022-07-24 10:25:00,085 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.79.Final/netty-common-4.1.79.Final.jar
+2022-07-24 10:25:00,284 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.79.Final/netty-resolver-4.1.79.Final.jar
+2022-07-24 10:25:00,591 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.79.Final/netty-transport-4.1.79.Final.jar
+2022-07-24 10:25:00,827 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.79.Final/netty-transport-native-unix-common-4.1.79.Final.jar
+2022-07-24 10:25:01,109 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.79.Final/netty-codec-4.1.79.Final.jar
+2022-07-24 10:25:02,040 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.79.Final/netty-buffer-4.1.79.Final.jar
+2022-07-24 10:25:02,322 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.79.Final/netty-transport-native-unix-common-4.1.79.Final.jar
+2022-07-24 10:25:02,800 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.79.Final/netty-transport-native-epoll-4.1.79.Final.jar
+2022-07-24 10:25:03,108 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.79.Final/netty-transport-classes-epoll-4.1.79.Final.jar
+2022-07-24 10:25:03,609 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.79.Final/netty-transport-native-epoll-4.1.79.Final.jar
+2022-07-24 10:25:03,860 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.79.Final/netty-codec-4.1.79.Final.jar
+2022-07-24 10:25:03,864 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/luben/zstd-jni/1.5.0-4/zstd-jni-1.5.0-4.jar
+2022-07-24 10:25:03,887 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-clients/3.1.1/kafka-clients-3.1.1-test.jar
+2022-07-24 10:25:04,579 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-server-common/3.1.1/kafka-server-common-3.1.1.jar
+2022-07-24 10:25:04,579 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-metadata/3.1.1/kafka-metadata-3.1.1.jar
+2022-07-24 10:25:04,581 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.79.Final/netty-transport-4.1.79.Final.jar
+2022-07-24 10:25:04,581 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.79.Final/netty-transport-classes-epoll-4.1.79.Final.jar
+2022-07-24 10:25:05,410 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.jar
+2022-07-24 10:25:05,410 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-raft/3.1.1/kafka-raft-3.1.1.jar
+2022-07-24 10:25:05,713 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-server-common/3.1.1/kafka-server-common-3.1.1.jar
+2022-07-24 10:25:06,601 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-streams-test-utils/3.1.1/kafka-streams-test-utils-3.1.1.jar
+2022-07-24 10:25:06,891 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.jar
+2022-07-24 10:25:07,488 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-streams/3.1.1/kafka-streams-3.1.1.jar
+2022-07-24 10:25:07,765 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-streams-test-utils/3.1.1/kafka-streams-test-utils-3.1.1.jar
+2022-07-24 10:25:08,124 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-metadata/3.1.1/kafka-metadata-3.1.1.jar
+2022-07-24 10:25:08,124 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-raft/3.1.1/kafka-raft-3.1.1.jar
+2022-07-24 10:25:08,573 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/rocksdb/rocksdbjni/6.22.1.1/rocksdbjni-6.22.1.1.jar
+2022-07-24 10:25:08,775 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka_2.13/3.1.1/kafka_2.13-3.1.1.jar
+2022-07-24 10:25:08,775 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6.jar
+2022-07-24 10:25:23,476 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-streams/3.1.1/kafka-streams-3.1.1.jar
+2022-07-24 10:25:24,074 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-storage/3.1.1/kafka-storage-3.1.1.jar
+2022-07-24 10:25:26,400 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-storage/3.1.1/kafka-storage-3.1.1.jar
+2022-07-24 10:25:27,079 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-storage-api/3.1.1/kafka-storage-api-3.1.1.jar
+2022-07-24 10:25:28,195 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-storage-api/3.1.1/kafka-storage-api-3.1.1.jar
+2022-07-24 10:25:28,880 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sourceforge/argparse4j/argparse4j/0.7.0/argparse4j-0.7.0.jar
+2022-07-24 10:25:30,688 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/argparse4j/argparse4j/0.7.0/argparse4j-0.7.0.jar
+2022-07-24 10:25:31,368 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.13/2.13.3/jackson-module-scala_2.13-2.13.3.jar
+2022-07-24 10:25:36,822 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.13/2.13.3/jackson-module-scala_2.13-2.13.3.jar
+2022-07-24 10:25:37,623 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8.jar
+2022-07-24 10:25:37,923 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-clients/3.1.1/kafka-clients-3.1.1-test.jar
+2022-07-24 10:25:38,811 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-csv/2.13.3/jackson-dataformat-csv-2.13.3.jar
+2022-07-24 10:25:38,862 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8.jar
+2022-07-24 10:25:39,682 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
+2022-07-24 10:25:40,616 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-csv/2.13.3/jackson-dataformat-csv-2.13.3.jar
+2022-07-24 10:25:40,895 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
+2022-07-24 10:25:41,250 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/bitbucket/b_c/jose4j/0.7.8/jose4j-0.7.8.jar
+2022-07-24 10:25:41,553 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.4.4/scala-collection-compat_2.13-2.4.4.jar
+2022-07-24 10:25:42,458 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.4.4/scala-collection-compat_2.13-2.4.4.jar
+2022-07-24 10:25:43,262 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.jar
+2022-07-24 10:25:44,504 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/bitbucket/b_c/jose4j/0.7.8/jose4j-0.7.8.jar
+2022-07-24 10:25:45,281 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scala-lang/scala-reflect/2.13.6/scala-reflect-2.13.6.jar
+2022-07-24 10:25:51,008 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.jar
+2022-07-24 10:25:51,855 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/typesafe/scala-logging/scala-logging_2.13/3.9.3/scala-logging_2.13-3.9.3.jar
+2022-07-24 10:25:53,212 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/typesafe/scala-logging/scala-logging_2.13/3.9.3/scala-logging_2.13-3.9.3.jar
+2022-07-24 10:25:54,049 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-core/4.2.10/metrics-core-4.2.10.jar
+2022-07-24 10:25:56,285 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-core/4.2.10/metrics-core-4.2.10.jar
+2022-07-24 10:25:56,988 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4.jar
+2022-07-24 10:25:58,409 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4.jar
+2022-07-24 10:25:59,071 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka_2.13/3.1.1/kafka_2.13-3.1.1-test.jar
+2022-07-24 10:26:02,786 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka_2.13/3.1.1/kafka_2.13-3.1.1.jar
+2022-07-24 10:26:08,095 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6.jar
+2022-07-24 10:26:18,429 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scala-lang/scala-reflect/2.13.6/scala-reflect-2.13.6.jar
+2022-07-24 10:26:28,245 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka_2.13/3.1.1/kafka_2.13-3.1.1-test.jar
+2022-07-24 10:27:26,932 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/rocksdb/rocksdbjni/6.22.1.1/rocksdbjni-6.22.1.1.jar
+2022-07-24 10:27:27,025 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.strproducer:producer:0.0.1-SNAPSHOT @ D:\ws-applyingKafka\backendwithkafka\pom.xml.
+2022-07-24 10:27:27,704 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backendwithkafka/src/main/java
+2022-07-24 10:27:27,705 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backendwithkafka/src/main/resources
+2022-07-24 10:27:27,707 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backendwithkafka/src/main/resources
+2022-07-24 10:27:27,710 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backendwithkafka/src/test/java
+2022-07-24 10:27:29,197 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 268 sec
+2022-07-24 10:27:29,443 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.7.2/spring-boot-starter-web-2.7.2-sources.jar
+2022-07-24 10:27:29,707 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.7.2/spring-boot-starter-web-2.7.2-sources.jar
+2022-07-24 10:27:29,709 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-web:2.7.2
+2022-07-24 10:27:29,848 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 10:27:29,848 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 10:27:29,851 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 10:27:29,862 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 10:27:29,864 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 10:27:29,864 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 10:27:29,864 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 10:27:30,276 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.7.2/spring-boot-starter-2.7.2-sources.jar
+2022-07-24 10:27:30,557 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.7.2/spring-boot-starter-2.7.2-sources.jar
+2022-07-24 10:27:30,558 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter:2.7.2
+2022-07-24 10:27:31,172 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.7.2/spring-boot-2.7.2-sources.jar
+2022-07-24 10:27:33,696 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.7.2/spring-boot-2.7.2-sources.jar
+2022-07-24 10:27:33,697 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot:2.7.2
+2022-07-24 10:27:34,253 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.7.2/spring-boot-autoconfigure-2.7.2-sources.jar
+2022-07-24 10:27:36,509 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.7.2/spring-boot-autoconfigure-2.7.2-sources.jar
+2022-07-24 10:27:36,510 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-autoconfigure:2.7.2
+2022-07-24 10:27:37,051 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.7.2/spring-boot-starter-logging-2.7.2-sources.jar
+2022-07-24 10:27:37,308 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.7.2/spring-boot-starter-logging-2.7.2-sources.jar
+2022-07-24 10:27:37,310 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-logging:2.7.2
+2022-07-24 10:27:37,862 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.7.2/spring-boot-starter-json-2.7.2-sources.jar
+2022-07-24 10:27:38,121 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.7.2/spring-boot-starter-json-2.7.2-sources.jar
+2022-07-24 10:27:38,122 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-json:2.7.2
+2022-07-24 10:27:38,661 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.7.2/spring-boot-starter-tomcat-2.7.2-sources.jar
+2022-07-24 10:27:38,915 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.7.2/spring-boot-starter-tomcat-2.7.2-sources.jar
+2022-07-24 10:27:38,917 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-tomcat:2.7.2
+2022-07-24 10:27:39,509 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.65/tomcat-embed-core-9.0.65-sources.jar
+2022-07-24 10:27:47,530 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.65/tomcat-embed-core-9.0.65-sources.jar
+2022-07-24 10:27:47,532 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-core:9.0.65
+2022-07-24 10:27:48,085 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/9.0.65/tomcat-embed-el-9.0.65-sources.jar
+2022-07-24 10:27:48,684 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/9.0.65/tomcat-embed-el-9.0.65-sources.jar
+2022-07-24 10:27:48,686 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-el:9.0.65
+2022-07-24 10:27:49,270 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.65/tomcat-embed-websocket-9.0.65-sources.jar
+2022-07-24 10:27:50,007 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.65/tomcat-embed-websocket-9.0.65-sources.jar
+2022-07-24 10:27:50,009 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-websocket:9.0.65
+2022-07-24 10:27:50,619 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.3.22/spring-web-5.3.22-sources.jar
+2022-07-24 10:27:53,497 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.3.22/spring-web-5.3.22-sources.jar
+2022-07-24 10:27:53,499 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:5.3.22
+2022-07-24 10:27:54,087 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.22/spring-beans-5.3.22-sources.jar
+2022-07-24 10:27:55,710 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.22/spring-beans-5.3.22-sources.jar
+2022-07-24 10:27:55,711 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.3.22
+2022-07-24 10:27:56,286 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.3.22/spring-webmvc-5.3.22-sources.jar
+2022-07-24 10:27:58,259 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.3.22/spring-webmvc-5.3.22-sources.jar
+2022-07-24 10:27:58,261 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:5.3.22
+2022-07-24 10:27:58,829 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.22/spring-aop-5.3.22-sources.jar
+2022-07-24 10:27:59,732 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.22/spring-aop-5.3.22-sources.jar
+2022-07-24 10:27:59,734 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.3.22
+2022-07-24 10:28:00,348 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.22/spring-expression-5.3.22-sources.jar
+2022-07-24 10:28:00,999 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.22/spring-expression-5.3.22-sources.jar
+2022-07-24 10:28:01,001 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.3.22
+2022-07-24 10:28:01,573 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/kafka/spring-kafka/2.8.8/spring-kafka-2.8.8-sources.jar
+2022-07-24 10:28:02,861 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/kafka/spring-kafka/2.8.8/spring-kafka-2.8.8-sources.jar
+2022-07-24 10:28:02,863 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.kafka:spring-kafka:2.8.8
+2022-07-24 10:28:03,451 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.22/spring-context-5.3.22-sources.jar
+2022-07-24 10:28:06,209 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.22/spring-context-5.3.22-sources.jar
+2022-07-24 10:28:06,210 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.3.22
+2022-07-24 10:28:06,905 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/5.3.22/spring-messaging-5.3.22-sources.jar
+2022-07-24 10:28:08,147 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/5.3.22/spring-messaging-5.3.22-sources.jar
+2022-07-24 10:28:08,149 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-messaging:5.3.22
+2022-07-24 10:28:08,701 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.22/spring-tx-5.3.22-sources.jar
+2022-07-24 10:28:09,562 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.22/spring-tx-5.3.22-sources.jar
+2022-07-24 10:28:09,564 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:5.3.22
+2022-07-24 10:28:10,166 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/retry/spring-retry/1.3.3/spring-retry-1.3.3-sources.jar
+2022-07-24 10:28:10,660 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/retry/spring-retry/1.3.3/spring-retry-1.3.3-sources.jar
+2022-07-24 10:28:10,662 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.retry:spring-retry:1.3.3
+2022-07-24 10:28:11,333 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-clients/3.1.1/kafka-clients-3.1.1-sources.jar
+2022-07-24 10:28:18,446 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-clients/3.1.1/kafka-clients-3.1.1-sources.jar
+2022-07-24 10:28:18,448 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-clients:3.1.1
+2022-07-24 10:28:19,039 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/luben/zstd-jni/1.5.0-4/zstd-jni-1.5.0-4-sources.jar
+2022-07-24 10:28:19,321 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/luben/zstd-jni/1.5.0-4/zstd-jni-1.5.0-4-sources.jar
+2022-07-24 10:28:19,322 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.luben:zstd-jni:1.5.0-4
+2022-07-24 10:28:19,935 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0-sources.jar
+2022-07-24 10:28:20,289 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0-sources.jar
+2022-07-24 10:28:20,290 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.lz4:lz4-java:1.8.0
+2022-07-24 10:28:20,938 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xerial/snappy/snappy-java/1.1.8.4/snappy-java-1.1.8.4-sources.jar
+2022-07-24 10:28:25,868 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xerial/snappy/snappy-java/1.1.8.4/snappy-java-1.1.8.4-sources.jar
+2022-07-24 10:28:25,869 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.xerial.snappy:snappy-java:1.1.8.4
+2022-07-24 10:28:26,548 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24-sources.jar
+2022-07-24 10:28:29,239 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24-sources.jar
+2022-07-24 10:28:29,240 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.24
+2022-07-24 10:28:29,899 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.7.2/spring-boot-starter-test-2.7.2-sources.jar
+2022-07-24 10:28:30,213 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.7.2/spring-boot-starter-test-2.7.2-sources.jar
+2022-07-24 10:28:30,215 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-test:2.7.2
+2022-07-24 10:28:30,843 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.7.2/spring-boot-test-2.7.2-sources.jar
+2022-07-24 10:28:31,358 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.7.2/spring-boot-test-2.7.2-sources.jar
+2022-07-24 10:28:31,360 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-test:2.7.2
+2022-07-24 10:28:31,993 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.7.2/spring-boot-test-autoconfigure-2.7.2-sources.jar
+2022-07-24 10:28:32,676 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.7.2/spring-boot-test-autoconfigure-2.7.2-sources.jar
+2022-07-24 10:28:32,678 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-test-autoconfigure:2.7.2
+2022-07-24 10:28:33,304 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.12/byte-buddy-1.12.12-sources.jar
+2022-07-24 10:28:36,617 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.12/byte-buddy-1.12.12-sources.jar
+2022-07-24 10:28:36,619 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy:1.12.12
+2022-07-24 10:28:37,235 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.12.12/byte-buddy-agent-1.12.12-sources.jar
+2022-07-24 10:28:37,896 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.12.12/byte-buddy-agent-1.12.12-sources.jar
+2022-07-24 10:28:37,897 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy-agent:1.12.12
+2022-07-24 10:28:38,449 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/skyscreamer/jsonassert/1.5.1/jsonassert-1.5.1-sources.jar
+2022-07-24 10:28:38,727 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/skyscreamer/jsonassert/1.5.1/jsonassert-1.5.1-sources.jar
+2022-07-24 10:28:38,728 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.skyscreamer:jsonassert:1.5.1
+2022-07-24 10:28:39,408 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.22/spring-core-5.3.22-sources.jar
+2022-07-24 10:28:42,197 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.22/spring-core-5.3.22-sources.jar
+2022-07-24 10:28:42,198 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.3.22
+2022-07-24 10:28:42,891 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.22/spring-jcl-5.3.22-sources.jar
+2022-07-24 10:28:43,225 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.22/spring-jcl-5.3.22-sources.jar
+2022-07-24 10:28:43,227 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.3.22
+2022-07-24 10:28:43,847 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/5.3.22/spring-test-5.3.22-sources.jar
+2022-07-24 10:28:45,506 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/5.3.22/spring-test-5.3.22-sources.jar
+2022-07-24 10:28:45,507 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-test:5.3.22
+2022-07-24 10:28:46,079 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/kafka/spring-kafka-test/2.8.8/spring-kafka-test-2.8.8-sources.jar
+2022-07-24 10:28:46,349 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/kafka/spring-kafka-test/2.8.8/spring-kafka-test-2.8.8-sources.jar
+2022-07-24 10:28:46,351 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.kafka:spring-kafka-test:2.8.8
+2022-07-24 10:28:46,978 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/zookeeper/zookeeper/3.6.3/zookeeper-3.6.3-sources.jar
+2022-07-24 10:28:49,112 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/zookeeper/zookeeper/3.6.3/zookeeper-3.6.3-sources.jar
+2022-07-24 10:28:49,114 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.zookeeper:zookeeper:3.6.3
+2022-07-24 10:28:49,811 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/zookeeper/zookeeper-jute/3.6.3/zookeeper-jute-3.6.3-sources.jar
+2022-07-24 10:28:50,550 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/zookeeper/zookeeper-jute/3.6.3/zookeeper-jute-3.6.3-sources.jar
+2022-07-24 10:28:50,552 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.zookeeper:zookeeper-jute:3.6.3
+2022-07-24 10:28:51,107 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/yetus/audience-annotations/0.5.0/audience-annotations-0.5.0-sources.jar
+2022-07-24 10:28:51,369 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/yetus/audience-annotations/0.5.0/audience-annotations-0.5.0-sources.jar
+2022-07-24 10:28:51,370 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.yetus:audience-annotations:0.5.0
+2022-07-24 10:28:52,026 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.79.Final/netty-handler-4.1.79.Final-sources.jar
+2022-07-24 10:28:53,067 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.79.Final/netty-handler-4.1.79.Final-sources.jar
+2022-07-24 10:28:53,068 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.1.79.Final
+2022-07-24 10:28:53,676 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.79.Final/netty-common-4.1.79.Final-sources.jar
+2022-07-24 10:28:55,190 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.79.Final/netty-common-4.1.79.Final-sources.jar
+2022-07-24 10:28:55,192 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-common:4.1.79.Final
+2022-07-24 10:28:55,836 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.79.Final/netty-resolver-4.1.79.Final-sources.jar
+2022-07-24 10:28:56,143 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.79.Final/netty-resolver-4.1.79.Final-sources.jar
+2022-07-24 10:28:56,144 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver:4.1.79.Final
+2022-07-24 10:28:56,778 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.79.Final/netty-buffer-4.1.79.Final-sources.jar
+2022-07-24 10:28:57,449 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.79.Final/netty-buffer-4.1.79.Final-sources.jar
+2022-07-24 10:28:57,451 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.1.79.Final
+2022-07-24 10:28:58,072 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.79.Final/netty-transport-4.1.79.Final-sources.jar
+2022-07-24 10:28:59,011 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.79.Final/netty-transport-4.1.79.Final-sources.jar
+2022-07-24 10:28:59,012 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.1.79.Final
+2022-07-24 10:28:59,682 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.79.Final/netty-transport-native-unix-common-4.1.79.Final-sources.jar
+2022-07-24 10:29:00,062 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.79.Final/netty-transport-native-unix-common-4.1.79.Final-sources.jar
+2022-07-24 10:29:00,064 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-unix-common:4.1.79.Final
+2022-07-24 10:29:00,709 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.79.Final/netty-codec-4.1.79.Final-sources.jar
+2022-07-24 10:29:01,561 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.79.Final/netty-codec-4.1.79.Final-sources.jar
+2022-07-24 10:29:01,562 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.1.79.Final
+2022-07-24 10:29:02,229 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.79.Final/netty-transport-native-epoll-4.1.79.Final-sources.jar
+2022-07-24 10:29:02,540 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.79.Final/netty-transport-native-epoll-4.1.79.Final-sources.jar
+2022-07-24 10:29:02,542 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-epoll:4.1.79.Final
+2022-07-24 10:29:03,177 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.79.Final/netty-transport-classes-epoll-4.1.79.Final-sources.jar
+2022-07-24 10:29:03,563 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.79.Final/netty-transport-classes-epoll-4.1.79.Final-sources.jar
+2022-07-24 10:29:03,564 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-classes-epoll:4.1.79.Final
+2022-07-24 10:29:03,566 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-clients:3.1.1:test
+2022-07-24 10:29:04,197 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-metadata/3.1.1/kafka-metadata-3.1.1-sources.jar
+2022-07-24 10:29:04,995 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-metadata/3.1.1/kafka-metadata-3.1.1-sources.jar
+2022-07-24 10:29:04,997 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-metadata:3.1.1
+2022-07-24 10:29:05,631 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-server-common/3.1.1/kafka-server-common-3.1.1-sources.jar
+2022-07-24 10:29:05,935 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-server-common/3.1.1/kafka-server-common-3.1.1-sources.jar
+2022-07-24 10:29:05,936 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-server-common:3.1.1
+2022-07-24 10:29:06,576 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-raft/3.1.1/kafka-raft-3.1.1-sources.jar
+2022-07-24 10:29:07,094 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-raft/3.1.1/kafka-raft-3.1.1-sources.jar
+2022-07-24 10:29:07,096 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-raft:3.1.1
+2022-07-24 10:29:07,673 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0-sources.jar
+2022-07-24 10:29:07,980 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0-sources.jar
+2022-07-24 10:29:07,982 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.yammer.metrics:metrics-core:2.2.0
+2022-07-24 10:29:08,605 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-streams-test-utils/3.1.1/kafka-streams-test-utils-3.1.1-sources.jar
+2022-07-24 10:29:08,903 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-streams-test-utils/3.1.1/kafka-streams-test-utils-3.1.1-sources.jar
+2022-07-24 10:29:08,904 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-streams-test-utils:3.1.1
+2022-07-24 10:29:09,527 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-streams/3.1.1/kafka-streams-3.1.1-sources.jar
+2022-07-24 10:29:12,101 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-streams/3.1.1/kafka-streams-3.1.1-sources.jar
+2022-07-24 10:29:12,102 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-streams:3.1.1
+2022-07-24 10:29:12,681 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/rocksdb/rocksdbjni/6.22.1.1/rocksdbjni-6.22.1.1-sources.jar
+2022-07-24 10:29:13,536 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/rocksdb/rocksdbjni/6.22.1.1/rocksdbjni-6.22.1.1-sources.jar
+2022-07-24 10:29:13,537 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.rocksdb:rocksdbjni:6.22.1.1
+2022-07-24 10:29:14,090 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka_2.13/3.1.1/kafka_2.13-3.1.1-sources.jar
+2022-07-24 10:29:16,366 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka_2.13/3.1.1/kafka_2.13-3.1.1-sources.jar
+2022-07-24 10:29:16,367 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka_2.13:3.1.1
+2022-07-24 10:29:17,003 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6-sources.jar
+2022-07-24 10:29:19,643 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6-sources.jar
+2022-07-24 10:29:19,644 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.scala-lang:scala-library:2.13.6
+2022-07-24 10:29:20,331 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-storage/3.1.1/kafka-storage-3.1.1-sources.jar
+2022-07-24 10:29:20,747 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-storage/3.1.1/kafka-storage-3.1.1-sources.jar
+2022-07-24 10:29:20,748 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-storage:3.1.1
+2022-07-24 10:29:21,315 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-storage-api/3.1.1/kafka-storage-api-3.1.1-sources.jar
+2022-07-24 10:29:21,590 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-storage-api/3.1.1/kafka-storage-api-3.1.1-sources.jar
+2022-07-24 10:29:21,591 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-storage-api:3.1.1
+2022-07-24 10:29:22,239 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sourceforge/argparse4j/argparse4j/0.7.0/argparse4j-0.7.0-sources.jar
+2022-07-24 10:29:22,640 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/argparse4j/argparse4j/0.7.0/argparse4j-0.7.0-sources.jar
+2022-07-24 10:29:22,642 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sourceforge.argparse4j:argparse4j:0.7.0
+2022-07-24 10:29:23,291 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.13/2.13.3/jackson-module-scala_2.13-2.13.3-sources.jar
+2022-07-24 10:29:23,669 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.13/2.13.3/jackson-module-scala_2.13-2.13.3-sources.jar
+2022-07-24 10:29:23,671 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.module:jackson-module-scala_2.13:2.13.3
+2022-07-24 10:29:24,357 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8-sources.jar
+2022-07-24 10:29:24,687 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8-sources.jar
+2022-07-24 10:29:24,689 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.thoughtworks.paranamer:paranamer:2.8
+2022-07-24 10:29:25,307 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-csv/2.13.3/jackson-dataformat-csv-2.13.3-sources.jar
+2022-07-24 10:29:25,821 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-csv/2.13.3/jackson-dataformat-csv-2.13.3-sources.jar
+2022-07-24 10:29:25,822 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.13.3
+2022-07-24 10:29:26,440 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4-sources.jar
+2022-07-24 10:29:26,815 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4-sources.jar
+2022-07-24 10:29:26,816 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sf.jopt-simple:jopt-simple:5.0.4
+2022-07-24 10:29:27,493 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/bitbucket/b_c/jose4j/0.7.8/jose4j-0.7.8-sources.jar
+2022-07-24 10:29:28,229 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/bitbucket/b_c/jose4j/0.7.8/jose4j-0.7.8-sources.jar
+2022-07-24 10:29:28,231 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.bitbucket.b_c:jose4j:0.7.8
+2022-07-24 10:29:28,828 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.4.4/scala-collection-compat_2.13-2.4.4-sources.jar
+2022-07-24 10:29:29,087 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.4.4/scala-collection-compat_2.13-2.4.4-sources.jar
+2022-07-24 10:29:29,089 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.scala-lang.modules:scala-collection-compat_2.13:2.4.4
+2022-07-24 10:29:29,669 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0-sources.jar
+2022-07-24 10:29:29,945 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0-sources.jar
+2022-07-24 10:29:29,947 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.scala-lang.modules:scala-java8-compat_2.13:1.0.0
+2022-07-24 10:29:30,593 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scala-lang/scala-reflect/2.13.6/scala-reflect-2.13.6-sources.jar
+2022-07-24 10:29:32,351 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scala-lang/scala-reflect/2.13.6/scala-reflect-2.13.6-sources.jar
+2022-07-24 10:29:32,352 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.scala-lang:scala-reflect:2.13.6
+2022-07-24 10:29:32,896 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/typesafe/scala-logging/scala-logging_2.13/3.9.3/scala-logging_2.13-3.9.3-sources.jar
+2022-07-24 10:29:33,151 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/typesafe/scala-logging/scala-logging_2.13/3.9.3/scala-logging_2.13-3.9.3-sources.jar
+2022-07-24 10:29:33,152 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.typesafe.scala-logging:scala-logging_2.13:3.9.3
+2022-07-24 10:29:33,657 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-core/4.2.10/metrics-core-4.2.10-sources.jar
+2022-07-24 10:29:33,981 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-core/4.2.10/metrics-core-4.2.10-sources.jar
+2022-07-24 10:29:33,982 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.dropwizard.metrics:metrics-core:4.2.10
+2022-07-24 10:29:34,516 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4-sources.jar
+2022-07-24 10:29:34,826 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4-sources.jar
+2022-07-24 10:29:34,827 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-cli:commons-cli:1.4
+2022-07-24 10:29:34,829 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka_2.13:3.1.1:test
+2022-07-24 10:29:35,244 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 10:29:35,244 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 10:29:35,245 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 10:29:35,245 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 10:29:35,246 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 10:29:35,246 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 10:29:35,246 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 10:30:05,352 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-24 11:08:01,301 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:08:01,302 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:08:01,304 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:08:01,312 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:08:01,314 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:08:01,314 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:08:01,314 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:10:18,799 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:10:18,799 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:10:18,803 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:10:18,810 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:10:18,812 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:10:18,813 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:10:18,813 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:11:32,508 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:11:32,509 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:11:32,517 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:11:32,525 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:11:32,527 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:11:32,527 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:11:32,527 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:11:33,597 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:11:33,597 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:11:33,597 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:11:33,597 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:11:33,598 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:11:33,598 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:11:33,598 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:11:42,810 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:11:42,810 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:11:42,811 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:11:42,818 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:11:42,820 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:11:42,820 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:11:42,821 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:12:14,162 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:12:14,162 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:12:14,163 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:12:14,202 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:12:14,204 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:12:14,204 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:12:14,204 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:12:53,654 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:12:53,656 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:12:53,656 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:12:53,659 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:12:53,661 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:12:53,661 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:12:53,661 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:13:09,213 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:13:09,213 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:13:09,213 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:13:09,216 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:13:09,218 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:13:09,219 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:13:09,219 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:13:12,868 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:13:12,868 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:13:12,868 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:13:12,873 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:13:12,874 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:13:12,874 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:13:12,874 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:15:15,138 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:15:15,138 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:15:15,139 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:15:15,141 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:15:15,142 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:15:15,143 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:15:15,143 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:15:16,306 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:15:16,306 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:15:16,306 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:15:16,309 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:15:16,310 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:15:16,310 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:15:16,310 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:15:30,248 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:15:30,248 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:15:30,249 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:15:30,251 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:15:30,253 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:15:30,253 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:15:30,253 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:15:40,558 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:15:40,558 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:15:40,558 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:15:40,560 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:15:40,563 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:15:40,563 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:15:40,563 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:16:49,241 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:16:49,242 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:16:49,242 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:16:49,246 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:16:49,247 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:16:49,247 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:16:49,247 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:17:28,915 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:17:28,915 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:17:28,916 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:17:28,920 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:17:28,922 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:17:28,922 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:17:28,922 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:18:43,440 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:18:43,440 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:18:43,441 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:18:43,444 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:18:43,446 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:18:43,446 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:18:43,446 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:18:50,768 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:18:50,768 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:18:50,768 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:18:50,772 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:18:50,773 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:18:50,774 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:18:50,774 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:20:24,595 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:20:24,595 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:20:24,595 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:20:24,598 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:20:24,600 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:20:24,600 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:20:24,600 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:20:36,646 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:20:36,646 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:20:36,646 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:20:36,649 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:20:36,651 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:20:36,651 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:20:36,651 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:21:01,088 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:21:01,088 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:21:01,088 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:21:01,093 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:21:01,094 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:21:01,094 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:21:01,094 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:21:08,703 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:21:08,703 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:21:08,703 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:21:08,708 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:21:08,709 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:21:08,709 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:21:08,709 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:22:07,301 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:22:07,301 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:22:07,301 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:22:07,304 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:22:07,305 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:22:07,305 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:22:07,305 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:22:40,699 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:22:40,699 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:22:40,700 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:22:40,703 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:22:40,704 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:22:40,704 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:22:40,704 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 11:26:37,638 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:26:37,638 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:26:37,638 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 11:26:37,648 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 11:26:37,650 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 11:26:37,650 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 11:26:37,650 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:15:19,049 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:15:19,049 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:15:19,049 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:15:19,057 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:15:19,059 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:15:19,059 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:15:19,059 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:15:34,883 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:15:34,883 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:15:34,883 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:15:34,893 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:15:34,895 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:15:34,895 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:15:34,895 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:15:40,979 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:15:40,979 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:15:40,980 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:15:40,989 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:15:40,990 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:15:40,990 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:15:40,990 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:16:05,904 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:16:05,904 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:16:05,904 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:16:05,916 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:16:05,917 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:16:05,917 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:16:05,917 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:17:04,420 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:17:04,420 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:17:04,420 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:17:04,424 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:17:04,425 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:17:04,425 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:17:04,425 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:18:07,401 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:18:07,401 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:18:07,401 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:18:07,405 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:18:07,406 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:18:07,406 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:18:07,406 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:18:35,055 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:18:35,055 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:18:35,055 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:18:35,060 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:18:35,061 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:18:35,061 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:18:35,061 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:19:48,741 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:19:48,741 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:19:48,741 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:19:48,744 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:19:48,746 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:19:48,746 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:19:48,746 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:20:09,391 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:20:09,391 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:20:09,392 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:20:09,396 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:20:09,398 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:20:09,398 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:20:09,398 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:20:13,867 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:20:13,867 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:20:13,867 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:20:13,872 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:20:13,873 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:20:13,873 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:20:13,873 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:21:00,621 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:21:00,621 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:21:00,621 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:21:00,624 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:21:00,625 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:21:00,625 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:21:00,625 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:21:03,708 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:21:03,708 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:21:03,708 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:21:03,713 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:21:03,714 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:21:03,714 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:21:03,714 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:21:08,089 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:21:08,089 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:21:08,089 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:21:08,094 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:21:08,095 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:21:08,095 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:21:08,095 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:22:19,262 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:22:19,262 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:22:19,263 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:22:19,267 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:22:19,267 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:22:19,268 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:22:19,268 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:23:08,418 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:23:08,419 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:23:08,419 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:23:08,432 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:23:08,434 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:23:08,434 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:23:08,435 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:23:18,654 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:23:18,654 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:23:18,655 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:23:18,658 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:23:18,660 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:23:18,660 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:23:18,660 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:23:19,697 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:23:19,697 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:23:19,698 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:23:19,706 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:23:19,707 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:23:19,707 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:23:19,707 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:24:15,752 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:24:15,753 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:24:15,753 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:24:15,758 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:24:15,758 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:24:15,758 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:24:15,759 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:24:34,633 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:24:34,634 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:24:34,634 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:24:34,639 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:24:34,640 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:24:34,640 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:24:34,640 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:24:54,561 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:24:54,561 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:24:54,561 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:24:54,566 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:24:54,567 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:24:54,567 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:24:54,567 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:25:23,221 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:25:23,221 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:25:23,221 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:25:23,224 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:25:23,225 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:25:23,225 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:25:23,225 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:25:57,991 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:25:57,991 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:25:57,992 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:25:57,995 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:25:57,996 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:25:57,996 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:25:57,996 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:26:01,071 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:26:01,071 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:26:01,071 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:26:01,075 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:26:01,076 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:26:01,077 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:26:01,077 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:26:09,693 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:26:09,693 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:26:09,693 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:26:09,697 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:26:09,698 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:26:09,698 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:26:09,698 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:26:36,539 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:26:36,540 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:26:36,541 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:26:36,544 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:26:36,545 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:26:36,545 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:26:36,545 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:27:10,335 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:27:10,335 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:27:10,335 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:27:10,338 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:27:10,339 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:27:10,339 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:27:10,339 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:27:36,456 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:27:36,456 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:27:36,456 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:27:36,459 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:27:36,459 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:27:36,459 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:27:36,459 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:28:13,127 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:28:13,128 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:28:13,128 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:28:13,132 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:28:13,133 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:28:13,133 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:28:13,133 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:28:24,618 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:28:24,618 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:28:24,618 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:28:24,624 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:28:24,626 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:28:24,626 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:28:24,626 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:28:35,268 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:28:35,268 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:28:35,268 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:28:35,271 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:28:35,272 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:28:35,272 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:28:35,272 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:29:08,255 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:29:08,255 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:29:08,255 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:29:08,258 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:29:08,259 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:29:08,259 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:29:08,259 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:29:12,195 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:29:12,195 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:29:12,196 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:29:12,199 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:29:12,200 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:29:12,200 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:29:12,200 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:40:39,645 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:40:39,645 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:40:39,646 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:40:39,650 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:40:39,651 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:40:39,651 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:40:39,651 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:41:09,837 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:41:09,838 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:41:09,838 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:41:09,843 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:41:09,844 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:41:09,844 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:41:09,844 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:41:46,678 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:41:46,678 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:41:46,678 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:41:46,683 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:41:46,683 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:41:46,683 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:41:46,684 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:44:04,418 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:44:04,418 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:44:04,419 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:44:04,423 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:44:04,424 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:44:04,424 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:44:04,424 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:46:35,170 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:46:35,171 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:46:35,171 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:46:35,176 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:46:35,177 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:46:35,177 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:46:35,177 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:46:37,840 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:46:37,840 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:46:37,840 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:46:37,843 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:46:37,844 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:46:37,844 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:46:37,844 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:46:48,101 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:46:48,101 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:46:48,101 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:46:48,106 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:46:48,140 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:46:48,141 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:46:48,141 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:49:58,233 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:49:58,233 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:49:58,233 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:49:58,238 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:49:58,239 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:49:58,239 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:49:58,239 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:50:30,222 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:50:30,222 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:50:30,222 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:50:30,227 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:50:30,227 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:50:30,228 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:50:30,228 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:50:39,517 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:50:39,517 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:50:39,517 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:50:39,523 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:50:39,524 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:50:39,524 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:50:39,524 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 12:50:42,837 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:50:42,837 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:50:42,838 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 12:50:42,840 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 12:50:42,841 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 12:50:42,841 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 12:50:42,841 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources
+2022-07-24 14:28:00,623 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-24 15:54:12,095 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 15:54:12,102 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 15:54:12,104 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-24 15:54:12,118 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-24 15:54:12,121 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 15:54:12,121 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-24 15:54:12,121 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ws-applyingKafka\backendwithkafka\src\test\resources

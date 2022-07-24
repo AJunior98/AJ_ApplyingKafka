@@ -1,0 +1,8 @@
+package com.strproducer.producer.config;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class KafkaAdminConfig {
+
+}

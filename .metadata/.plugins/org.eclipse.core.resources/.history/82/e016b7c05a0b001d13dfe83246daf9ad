@@ -1,0 +1,14 @@
+package com.strproducer.producer.config;
+
+import org.springframework.context.annotation.Configuration;
+import org.springframework.kafka.core.KafkaAdmin;
+
+@Configuration
+public class KafkaAdminConfig {
+
+	public KafkaAdmin kafkaAdmin() {
+		var configs = new HashMap<String, Object>();
+		
+	}
+	
+}
