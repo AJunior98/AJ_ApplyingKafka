@@ -1,0 +1,5 @@
+package com.strconsumer.consumer.listeners;
+
+public class StrConsumerListener {
+
+}

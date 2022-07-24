@@ -1,0 +1,18 @@
+package com.strconsumer.consumer.listeners;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.stereotype.Component;
+
+import com.strproducer.producer.services.StringProducerService;
+
+@Component
+public class StrConsumerListener {
+	
+	private static Logger logger = LoggerFactory.getLogger(StrConsumerListener.class);
+	
+	public void listener(String message) {
+		
+	}
+	
+}
