@@ -82,3 +82,13 @@ networks:
   broker-kafka:
     driver: bridge
 ```
+## Configurações do application.yml
+Configurações da porta que o projeto irá rodar.
+```
+server:
+  port: 8000
+spring:
+  kafka:
+    producer:
+      bootstrap-servers: localhost:29092    
+```
