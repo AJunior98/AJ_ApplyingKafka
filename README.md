@@ -7,10 +7,10 @@ O projeto é composto por duas "camadas", a produtora de mensagens e a consumido
   - com.strproducer.producer.config.StringProducerFactoryConfig: Cofiguração dos parametros dos serializadores da chave e valor e templates.
   - com.strproducer.producer.services.StringProducerService.java: Serviço para envio de mensagem para o tópico "str-topic".
  - Consumidor
-  - com.strconsumer.consumer.config.StringConsumerConfig: Configuração dos parâmetros de deserialização da mensagem, listeners e validadores de mensagens.
-  - com.strconsumer.consumer.custom.StrConsumerCustomListener: Implementando parâmetros de clean code, implementando uma interface anotada com o @interface.
-  - com.strconsumer.consumer.listeners.StrConsumerListener: Essa é a classe que fica "ouvindo" a partição, e também está implementando os grupos de consumo.
-  - com.strconsumer.consumer.exceptions.ErrorCustomHandler: Tratamento de exceção caso seja capturado um erro no recebimento da mensagem. 
+    - com.strconsumer.consumer.config.StringConsumerConfig: Configuração dos parâmetros de deserialização da mensagem, listeners e validadores de mensagens.
+    - com.strconsumer.consumer.custom.StrConsumerCustomListener: Implementando parâmetros de clean code, implementando uma interface anotada com o @interface.
+    - com.strconsumer.consumer.listeners.StrConsumerListener: Essa é a classe que fica "ouvindo" a partição, e também está implementando os grupos de consumo.
+    - com.strconsumer.consumer.exceptions.ErrorCustomHandler: Tratamento de exceção caso seja capturado um erro no recebimento da mensagem. 
 ## O que é Apache kafka?
 
 O Apache Kafka é uma plataforma de software de código fonte aberto para processamento de fluxo de mensagens escrita em Scala com Java. Entre as vantagens da plataforma podemos enfatizar sua forma de unificar os seus componentes e Plugins externos, baixa latência e alto rendimento se aproximando e muito do Feed de dados em tempo real.
